@@ -1,13 +1,13 @@
 # m5stickv-tips
-M5StickV�p�̐F�X�ȃv���O����
-���I�������������Ȃǂ܂��s���S�ł��B
+M5StickV用の色々なプログラム
+※終了処理が無いなどまだ不完全です。
 
-## �g����
-boot.py�ɃR�s�y���Ďg���Ă��������B
+## 使い方
+boot.pyにコピペして使ってください。
 
 ## Contents
 
 ### batterymonitor.py
-�o�b�e���[��USB�̓d������\�����܂��B
-
+バッテリーやUSBの電圧等を表示します。
+※ファームウェア4.0.17以上で動作します。
 
